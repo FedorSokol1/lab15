@@ -2,7 +2,7 @@ function Section() {
   return (
     <section>
       <img
-        src="src/Снимок экрана 2025-08-15 142324.png"
+        src="src/Screenshot 2025-12-05 003108.png"
         alt="Картинка"
       />
     </section>
