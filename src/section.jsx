@@ -2,7 +2,7 @@ function Section() {
   return (
     <section>
       <img
-        src="https://via.placeholder.com/150"
+        src="src/Снимок экрана 2025-08-15 142324.png"
         alt="Картинка"
       />
     </section>
